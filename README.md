@@ -18,6 +18,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mahmoud-el-tohamy.mahmoud-el-tohamy&"  />
+</div>
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -26,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Mahmoud ElTohamy from Mansoura, Egypt.<br><br>- 🔭 I’m working as Front-End Developer with React.js</p>
+<p align="left">I'm Mahmoud ElTohamy from Mansoura, Egypt.<br><br>- 🔭 I'm Mahmoud ElTohamy, a passionate Front-End Developer based in Egypt.  <br>I specialize in building responsive, accessible, and performance-focused web interfaces using modern technologies like React, Next.js, and TypeScript.<br><br>- Currently, I'm diving deeper into advanced React patterns, working with real-world projects, and always pushing myself to write cleaner and more scalable code.<br><br>- I'm also active in tech communities and student initiatives, and I enjoy sharing what I learn with others.</p>
 
 ###
 
@@ -56,6 +62,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<img src="https://raw.githubusercontent.com/mahmoud-el-tohamy/mahmoud-el-tohamy/output/snake.svg" alt="Snake animation" />
 
 ###
