@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Mahmoud ElTohamy from Mansoura, Egypt.<br><br>- 🔭 I’m a Front End Developer focused on building modern, responsive, and user-centered web applications using Next.js, React, TypeScript, JavaScript, HTML, CSS, and Tailwind CSS. <br>
+<p align="left">🔭 I’m a Front End Developer focused on building modern, responsive, and user-centered web applications using Next.js, React, TypeScript, JavaScript, HTML, CSS, and Tailwind CSS. <br>
 I build clean UIs, care about performance & accessibility, and follow solid UI/UX principles. <br>
 <br>
 Currently enrolled in the ITI 9-Month Program (Open Source Application Development – Intake 46) and previously completed the NTI MEAN Stack program, gaining hands-on experience with REST APIs, Node.js, Git/GitHub, and real-world development practices. <br>
