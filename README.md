@@ -32,7 +32,19 @@
 
 ###
 
-<p align="left">I'm Mahmoud ElTohamy from Mansoura, Egypt.<br><br>- 🔭 I'm Mahmoud ElTohamy, a passionate Front-End Developer based in Egypt.  <br>I specialize in building responsive, accessible, and performance-focused web interfaces using modern technologies like React, Next.js, and TypeScript.<br><br>- Currently, I'm diving deeper into advanced React patterns, working with real-world projects, and always pushing myself to write cleaner and more scalable code.<br><br>- I'm also active in tech communities and student initiatives, and I enjoy sharing what I learn with others.</p>
+<p align="left">I'm Mahmoud ElTohamy from Mansoura, Egypt.<br><br>- 🔭 I’m a Front End Developer focused on building modern, responsive, and user-centered web applications using Next.js, React, TypeScript, JavaScript, HTML, CSS, and Tailwind CSS.
+I build clean UIs, care about performance & accessibility, and follow solid UI/UX principles.
+
+Currently enrolled in the ITI 9-Month Program (Open Source Application Development – Intake 46) and previously completed the NTI MEAN Stack program, gaining hands-on experience with REST APIs, Node.js, Git/GitHub, and real-world development practices.
+
+I’ve taught a 24-hours Front End course at Intelligo for Delta Institute students, and trained around 70 students (12–18 years) in the DECI program on design thinking and building real projects.
+
+In the volunteering side:
+• Google Developer Groups (GDG) – Logistics & Tech Committee
+• Creativa Innovation Hub Mansoura
+• Youth Leading Youth – Former Vice Team Leader & Operations Head
+
+Passionate about problem solving, building useful digital products, and contributing to tech communities.</p>
 
 ###
 
