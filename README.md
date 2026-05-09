@@ -64,10 +64,10 @@
 
 ## 📊 GitHub Stats
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-el-tohamy&show_icons=true&theme=tokyonight&hide_border=true&v=2" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-el-tohamy&layout=compact&theme=tokyonight&hide_border=true&v=2" height="170" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-el-tohamy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-el-tohamy&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
 
 <br>
