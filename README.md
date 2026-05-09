@@ -78,7 +78,7 @@
 
 <br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-el-tohamy&theme=tokyonight" alt="Profile Summary" width="900" style="max-width: 110%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-el-tohamy&theme=tokyonight" alt="Profile Summary" width="800" style="max-width: 110%;">
 </div>
 <br>
 
