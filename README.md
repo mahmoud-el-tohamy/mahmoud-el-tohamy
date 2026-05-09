@@ -65,11 +65,20 @@
 ## 📊 GitHub Stats
 <br>
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-el-tohamy&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-el-tohamy&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&v=2" alt="Top Languages" height="170" />
+</div>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mahmoud-el-tohamy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-el-tohamy&layout=compact&theme=tokyonight&hide_border=true" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-el-tohamy&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" width="700" />
+</div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-el-tohamy&theme=tokyonight&v=2" alt="Profile Summary" style="max-width: 100%;">
 </div>
 <br>
 
