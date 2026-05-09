@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2000&pause=500&color=667eea&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Building+Full-Stack+Apps+with+MEAN+%26+Next.js;🎨+Crafting+Beautiful+%26+Responsive+Front-Ends;⚡+Clean+Code+%26+Database+Optimization" alt="Tech Stack Description" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2000&pause=500&color=667eea&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Building+Full-Stack+Apps+with+MERN+%26+Next.js;🎨+Crafting+Beautiful+%26+Responsive+Front-Ends;⚡+Clean+Code+%26+Database+Optimization" alt="Tech Stack Description" />
 </div>
 
 <br>
@@ -78,7 +78,7 @@
 
 <br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-el-tohamy&theme=tokyonight" alt="Profile Summary" width="800" style="max-width: 110%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-el-tohamy&theme=tokyonight" alt="Profile Summary" width="900" style="max-width: 110%;">
 </div>
 <br>
 
