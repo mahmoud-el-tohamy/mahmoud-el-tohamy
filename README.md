@@ -19,12 +19,8 @@
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/mahmoud-el-tohamy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="mailto:mahmoud.eltohamyy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
+  <a href="https://linkedin.com/in/mahmoud-el-tohamy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="mailto:mahmoud.eltohamyy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 <br>
@@ -38,16 +34,12 @@
 
 <div align="center">
 
-<a href="https://mahmoud-el-tohamy-portfolio.vercel.app/" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=667eea&center=true&vCenter=true&width=500&lines=🚀+Discover+My+Full-Stack+Projects;✨+Responsive+UIs+%26+Robust+APIs;💼+MERN+Stack+in+Action;🎯+Real-World+Solutions" alt="Portfolio Typing" />
-</a>
+<a href="https://mahmoud-el-tohamy-portfolio.vercel.app/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=667eea&center=true&vCenter=true&width=500&lines=🚀+Discover+My+Full-Stack+Projects;✨+Responsive+UIs+%26+Robust+APIs;💼+MERN+Stack+in+Action;🎯+Real-World+Solutions" alt="Portfolio Typing" /></a>
 
 <br>
 <br>
 
-<a href="https://mahmoud-el-tohamy-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/⚡%20EXPLORE%20NOW%20⚡-667eea?style=for-the-badge&logoColor=white&labelColor=764ba2" height="60" alt="CTA Button">
-</a>
+<a href="https://mahmoud-el-tohamy-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/⚡%20EXPLORE%20NOW%20⚡-667eea?style=for-the-badge&logoColor=white&labelColor=764ba2" height="60" alt="CTA Button"></a>
 
 <br>
 <br>
@@ -61,17 +53,17 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/></a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
-  <a href="https://github.com/mahmoud-el-tohamy" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="50" height="50"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="45" height="45"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
+  <a href="https://github.com/mahmoud-el-tohamy" target="_blank"><img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="45" height="45"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
 </p>
 
 <div align="center">
@@ -90,7 +82,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-el-tohamy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="700" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-el-tohamy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="800" />
 </div>
 
 <br>
@@ -101,11 +93,7 @@
 
 <br>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </div>
 
 <br>
